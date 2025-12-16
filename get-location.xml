@@ -1,4 +1,4 @@
-<?xml-stylesheet href="https://github.com/karsonkey/azur/blob/main/get-location.xsl" type="text/xsl"?>  
+<?xml-stylesheet href="https://cdn.jsdelivr.net/gh/karsonkey/azur@main/get-location.xsl" type="text/xsl"?>  
 <!DOCTYPE test [  
     <!ENTITY ent SYSTEM "?" NDATA aaa>  
 ]>
