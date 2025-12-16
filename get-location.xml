@@ -1,0 +1,7 @@
+<?xml-stylesheet href="get-location.xsl" type="text/xsl"?>  
+<!DOCTYPE test [  
+    <!ENTITY ent SYSTEM "?" NDATA aaa>  
+]>
+<test>
+<getLocation test="ent"/>
+</test>
